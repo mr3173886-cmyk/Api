@@ -1,0 +1,17 @@
+{
+  "name": "mr-king-api-server",
+  "version": "1.0.0",
+  "description": "Interactive REST API Dashboard for Mr. King Bot Assets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  },
+  "author": "Mr. King",
+  "license": "ISC"
+}
+
